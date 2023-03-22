@@ -1,6 +1,6 @@
 {
   "name": "@thiennguyenpro/thiennguyen-local-tunnel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Yet another local tunnel by Thien Nguyen",
   "main": "index.js",
   "scripts": {

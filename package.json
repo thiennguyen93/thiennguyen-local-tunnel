@@ -1,0 +1,22 @@
+{
+  "name": "@thiennguyenpro/thiennguyen-local-tunnel",
+  "version": "1.0.0",
+  "description": "Yet another local tunnel by Thien Nguyen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tnt": "src/bin/main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiennguyen93/thiennguyen-local-tunnel.git"
+  },
+  "author": "Thien Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiennguyen93/thiennguyen-local-tunnel/issues"
+  },
+  "homepage": "https://thiennguyen.dev"
+}

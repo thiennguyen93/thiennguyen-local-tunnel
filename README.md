@@ -5,7 +5,7 @@ Thien Nguyen Local Tunnel exposes your localhost to the www for easy testing and
 ## Quickstart
 
 ```
-npx tnt 3000
+npx tl 3000
 ```
 ![screenshot-01](
 https://raw.githubusercontent.com/thiennguyen93/thiennguyen93.github.io/main/source/images/SCR-20230323-2ac.jpeg)
